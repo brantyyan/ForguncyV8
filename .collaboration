@@ -141,32 +141,14 @@
   },
   {
     "ModuleName": "ServerCommand/サーバーサイドコマンド1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2021-11-30T13:42:40.4913959+08:00",
     "ModuleType": 15
   },
   {
     "ModuleName": "ServerCommand/サーバーサイドコマンド2",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2021-11-30T13:42:47.9482139+08:00",
     "ModuleType": 15
   },
   {
     "ModuleName": "ServerCommands/新しいフォルダー1",
-    "State": 3,
-    "LockedBy": {
-      "UserName": "GRAPECITY\\BrantyYan",
-      "Email": "example@example.com"
-    },
-    "LockDateTime": "2021-11-30T13:42:55.382257+08:00",
     "ModuleType": 20
   }
 ]
