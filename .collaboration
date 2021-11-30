@@ -141,11 +141,29 @@
   },
   {
     "ModuleName": "ServerCommand/サーバーサイドコマンド1",
-    "ModuleType": 15
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-11-30T13:44:02.6270805+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommands\\新しいフォルダー1\\サーバーサイドコマンド1.json"
+    ]
   },
   {
     "ModuleName": "ServerCommand/サーバーサイドコマンド2",
-    "ModuleType": 15
+    "State": 4,
+    "LockedBy": {
+      "UserName": "GRAPECITY\\BrantyYan",
+      "Email": "example@example.com"
+    },
+    "LockDateTime": "2021-11-30T13:44:02.6270805+08:00",
+    "ModuleType": 15,
+    "ToRemoveFiles": [
+      "ServerCommands\\新しいフォルダー1\\サーバーサイドコマンド2.json"
+    ]
   },
   {
     "ModuleName": "ServerCommands/新しいフォルダー1",
